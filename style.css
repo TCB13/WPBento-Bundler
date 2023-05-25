@@ -1,0 +1,19 @@
+/*
+Theme Name: YOUR-THEME-NAME
+Theme URI: https://github.com/TCB13/WPBento-Bundler
+
+Description: Example theme from WPBento-Bundler
+
+Version: 1.0
+Author: Tadeu Bento
+*/
+
+/*
+ * DO NOT change or remove this file.
+ * Your main stylesheet is located at `./src/style.scss`.
+ *
+ * The `style.css` is a stylesheet (CSS) file required for every WordPress theme. In order for WordPress
+ * to recognize the set of theme template files as a valid theme, the `style.css` file needs to be located
+ * in the root directory of your theme, not a subdirectory.
+ * More info: https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/
+ */
